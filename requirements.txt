@@ -202,7 +202,6 @@ spyder-kernels==1.8.1
 sympy==1.5.1
 tables==3.6.1
 tblib==1.6.0
-tensorboard==2.4.1
 tensorflow==2.4.1
 tensorflow-estimator==2.4.0
 tensorflow-gpu==2.4.1
