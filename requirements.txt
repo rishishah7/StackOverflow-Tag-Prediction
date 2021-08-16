@@ -203,7 +203,6 @@ sympy==1.5.1
 tables==3.6.1
 tensorflow==2.5.0
 tensorflow-estimator==2.4.0
-tensorflow-gpu==2.4.1
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
